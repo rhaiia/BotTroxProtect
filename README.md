@@ -1,2 +1,4 @@
 # BotTroxProtect
-Https://github.com/SatriaBot/BotTroxNwe
+https: // github.com/rhaiia/BotTroxProtect
+BOTTROX
+BotTroxSelf.py
